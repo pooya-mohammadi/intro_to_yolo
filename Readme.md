@@ -11,7 +11,7 @@ smooth and easy as possible. You can find the YouTube videos in the following pl
 ## Table of contents
 * Downloading dataset
 * Labeling Dataset
-* Training a model with YOLOV5
+* [Training a model with Yolov5](#Training a model with Yolov5)
 
 
 
@@ -25,8 +25,11 @@ Note: It may ask you to log in with your kaggle account, the simplest way is to 
 
 ### Labeling dataset
 For labeling this dataset, I use [makesense.ai](https://www.makesense.ai/). It's a handy and easy-to-begin system for 
-labeling different image-based datasets. To better understand how to use makesense I 
+labeling different image-based datasets. To better understand how to use makesense, I recorded a video which you
+find in the following link:</br>
+[Makesense.ai YouTube video]()
 
+### Training a model with Yolov5
 
 ## 🌟 Spread the word!
 
