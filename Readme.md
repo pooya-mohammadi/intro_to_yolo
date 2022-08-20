@@ -11,8 +11,7 @@ smooth and easy as possible. You can find the YouTube videos in the following pl
 ## Table of contents
 * Downloading dataset
 * Labeling Dataset
-* [Training a model with Yolov5](#Training a model with Yolov5)
-
+* [Training a model with Yolov5](#training-a-model-with-yolov5)
 
 
 ### Downloading dataset
@@ -26,8 +25,16 @@ Note: It may ask you to log in with your kaggle account, the simplest way is to 
 ### Labeling dataset
 For labeling this dataset, I use [makesense.ai](https://www.makesense.ai/). It's a handy and easy-to-begin system for 
 labeling different image-based datasets. To better understand how to use makesense, I recorded a video which you
-find in the following link:</br>
+can find in the following link:</br>
 [Makesense.ai YouTube video]()
+
+First step: Open [makesense.ai main page](https://www.makesense.ai/)
+
+Last step: Checking the labels
+```python
+from deep_utils import YOLOV5TorchObjectDetector
+YOLOV5TorchObjectDetector.test_label_dir()
+```
 
 ### Training a model with Yolov5
 
@@ -46,3 +53,6 @@ Thank you so much for your interest in growing the reach of the repo!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## References:
