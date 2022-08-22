@@ -90,3 +90,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ## References:
+🍀 deep_utils:[https://github.com/pooya-mohammadi/deep_utils](https://github.com/pooya-mohammadi/deep_utils)</p>
+🍀 yolov5: :[https://github.com/pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam)</p>
+🍀 makesense: :[https://www.makesense.ai/](https://www.makesense.ai/)</p>
